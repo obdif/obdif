@@ -21,10 +21,8 @@ I'm always open to collaborating on innovative software development projects, es
 Feel free to reach out for any collaboration or project discussions!
 
 ## 📫 How to Reach Me
-- [Your Email](mailto:adeblessinme4u@gmail.com)
-- [Your LinkedIn](https://www.linkedin.com/in/adekunle-blessing)
-- [Your Twitter](https://x.com/Prince_Adeola_)
-
-
-![Your Image](https://via.placeholder.com/150)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adekunle-blessings-projects&show_icons=true)
+- Email: [adeblessinme4u@gmail.com](mailto:adeblessinme4u@gmail.com)
+- WhattsApp: [Chat me up](https://wa.me/message/A6G5ZBKC7JHQN1)
+- Linkedin: [adekunle-blessing](https://www.linkedin.com/in/adekunle-blessing)
+- Twitter: [Prince_Adeola_](https://x.com/Prince_Adeola_)
+  
