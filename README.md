@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adekunle Blessing!
+# Hi there and Welcome!👋, I'm Adekunle Blessing!
 
 I'm a **Full-Stack Developer** with a passion for creating robust and scalable software solutions. I specialize in **JavaScript & Python** and work extensively with the following frameworks:
 
