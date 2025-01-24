@@ -21,8 +21,10 @@ I'm always open to collaborating on innovative software development projects, es
 Feel free to reach out for any collaboration or project discussions!
 
 ## 📫 How to Reach Me
-- Email: [adeblessinme4u@gmail.com](mailto:adeblessinme4u@gmail.com)
+- Portfolio: [My Portfolio](https://adekunleblessing.netlify.app/)
+- Email: [Send me a mail](mailto:adeblessinme4u@gmail.com)
 - WhattsApp: [Chat me up](https://wa.me/message/A6G5ZBKC7JHQN1)
 - Linkedin: [adekunle-blessing](https://www.linkedin.com/in/adekunle-blessing)
 - Twitter: [Prince_Adeola_](https://x.com/Prince_Adeola_)
+  
   
